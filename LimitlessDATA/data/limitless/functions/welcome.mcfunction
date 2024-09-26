@@ -1,0 +1,3 @@
+# The tutorial part of the datapack #
+summon minecraft:armor_stand 0 65.500 0 {Invisible:true,Invulnerable:1b,NoGravity:1b,Marker:1b,CustomNameVisible:true,CustomName:"{\"text\":\"Welcome to Limitless\",\"color\":\"white\",\"bold\":true}"}
+summon minecraft:armor_stand 0 65.300 0 {Invisible:true,Invulnerable:1b,NoGravity:1b,Marker:1b,CustomNameVisible:true,CustomName:"{\"text\":\"A modpack developed by Array Studios\",\"color\":\"red\",\"bold\":true,\"italic\":true}"}
